@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jiyun-kim0-0/jiyun-kim0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi ! This is jiyun :blush:
+# I am a university student and My major is software engineering.
+# using java, Python and I am interested in Algorism , machine learning.
+
