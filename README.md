@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 ###### I am a university student and My major is software engineering.
 
 ###### using java, Python and I am interested in Algorism , machine learning.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun-kim0-0)](https://github.com/anuraghazra/github-readme-stats)
-
