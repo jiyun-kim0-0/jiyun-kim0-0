@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####### Hi ! This is jiyun :blush:
-####### I am a university student and My major is software engineering.
-####### using java, Python and I am interested in Algorism , machine learning.
+###### Hi ! This is jiyun :blush:
+
+###### I am a university student and My major is software engineering.
+
+###### using java, Python and I am interested in Algorism , machine learning.
 
